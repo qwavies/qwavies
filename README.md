@@ -1,6 +1,5 @@
-## Hi there, I'm Chen - aka <a href="https://github.com/qwavies">qwavies</a> 👋
+<h1 align="center">Hi there, I'm Chen - aka <a href="https://github.com/qwavies">qwavies</a> 👋<h1/>
 
-# Tools
 ```csharp
 qwavies@github
 -------------------------
