@@ -1,6 +1,6 @@
-# Hi there, I'm Chen - aka <a href="https://github.com/qwavies">qwavies</a>
+# Hi, I'm Chen - aka <a href="https://github.com/qwavies">qwavies</a>
 
-<img align="left" src="assets/kim_soleum.jpg" alt="Kim Soleum" width="280"/> 
+<img align="left" src="assets/kim_soleum.jpg" alt="Kim Soleum" width="210"/> 
 
 ```csharp
 qwavies@github.com
@@ -10,12 +10,9 @@ OS: Arch Linux x86_64
 WM: Hyprland 0.56.1 (Wayland)
 Shell: zsh 5.9.2
 Terminal: wezterm
-Font: CaskaydiaMono Nerd Font
 Editor: nvim 0.12.4
+Battery: 98%
 ```
-
-> [!NOTE]
-> **Looking for work in Backend/DevOps/SysAdmin, based in Melbourne, AU**
 
 ## About me
 
