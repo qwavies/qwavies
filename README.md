@@ -5,20 +5,23 @@
 >
 > Melbourne, AU
 
+## About me
+- Avid <a href="https://github.com/neovim/neovim">neovim</a>/<a href="https://github.com/vim/vim">vim</a> enjoyer & larper
+- OSS enjoyer and contributor
+- Currently Reading: gsgw (괴담출근)
+- Studying: Bachelor's of CS at <a href="https://www.monash.edu/">Monash University</a> (graduating 2027)
+
 <img align="left" src="assets/kim_soleum.jpg" alt="Kim Soleum" width="250"/> 
 
 ```csharp
 qwavies@github
 -------------------------
+Uptime: 3 years
 OS: Arch Linux x86_64
 WM: Hyprland 0.56.1 (Wayland)
 Shell: zsh 5.9.2
 Terminal: wezterm
-Location: Melbourne, AU
+Font: CaskaydiaMono Nerd Font
+Prompt: starship
 Editor: nvim 0.12.4
 ```
-
-## About me
-- Avid <a href="https://github.com/neovim/neovim">neovim</a>/<a href="https://github.com/vim/vim">vim</a> enjoyer & larper
-- Currently Reading: gsgw (괴담출근)
-- Studying: Bachelor's of CS at <a href="https://www.monash.edu/">Monash University</a> (graduating 2027)
