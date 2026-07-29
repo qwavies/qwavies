@@ -1,16 +1,14 @@
-## Hi there 👋
+## Hi there, I'm Chen - aka <a href="https://github.com/qwavies>qwavies</a> 👋
 
-<!--
-**qwavies/qwavies** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Tools
+```csharp
+qwavies@github
+-------------------------
+OS: Arch Linux x86_64
+WM: Hyprland 0.56.1 (Wayland)
+Shell: zsh 5.9.2
+Terminal: wezterm
+Location: Melbourne, AU
+Editor: nvim 0.12.4
+```
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
