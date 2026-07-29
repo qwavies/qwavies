@@ -18,6 +18,6 @@ Battery: 98%
 
 Linux enthusiast (<a href="https://github.com/qwavies/dotfiles">dotfiles here</a>)<br>
 Avid <a href="https://github.com/neovim/neovim">nvim</a>/<a href="https://github.com/vim/vim">vim</a> enjoyer, larper & **contributor**
-- Currently working on: Getting cracked at/by QML for my <a href="https://quickshell.org/">quickshell</a> config
-- Currently Reading: gsgw (괴담출근)
-- Studying: Bachelor's of CS at <a href="https://www.monash.edu/">Monash University</a> (graduating 2027)
+- **Currently Working on:** Getting cracked at/by QML for my <a href="https://quickshell.org/">quickshell</a> config
+- **Currently Reading:** gsgw (괴담출근)
+- **Studying:** Bachelor's of CS at <a href="https://www.monash.edu/">Monash University</a> (graduating 2027)
