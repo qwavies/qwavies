@@ -1,6 +1,6 @@
-# Hi, I'm Chen - aka <a href="https://github.com/qwavies">qwavies</a>
+# Hi, I'm Chen - aka <a href="https://github.com/qwavies">qwavies</a> 😁
 
-<img align="left" src="assets/kim_soleum.jpg" alt="Kim Soleum" width="200"/> 
+<img align="left" src="assets/kim_soleum.jpg" alt="Kim Soleum" width="180"/> 
 
 ```csharp
 qwavies@github.com
@@ -14,7 +14,7 @@ Editor: nvim 0.12.4
 Battery: 98%
 ```
 
-## About me
+## 🌱 About me
 
 Linux enthusiast (<a href="https://github.com/qwavies/dotfiles">dotfiles here</a>)<br>
 Avid <a href="https://github.com/neovim/neovim">nvim</a>/<a href="https://github.com/vim/vim">vim</a> enjoyer, larper & **contributor**
