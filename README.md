@@ -1,10 +1,11 @@
-<h1 align="center">Hi there, I'm Chen - aka <a href="https://github.com/qwavies">qwavies</a> 👋</h1>
+# Hi there, I'm Chen - aka <a href="https://github.com/qwavies">qwavies</a> 👋
 
 > [!NOTE]
 > Looking for work in Backend/DevOps
+>
 > Melbourne, AU
 
-<img align="left" src="assets/kim_soleum.jpg" alt="Kim Soleum" width="320" /> 
+<img align="left" src="assets/kim_soleum.jpg" alt="Kim Soleum" width="200" /> 
 
 ```csharp
 qwavies@github
@@ -17,5 +18,7 @@ Location: Melbourne, AU
 Editor: nvim 0.12.4
 ```
 
+## About me
 - Avid <a href="https://github.com/neovim/neovim">neovim</a>/<a href="https://github.com/vim/vim">vim</a> enjoyer & larper
 - Currently Reading: gsgw (괴담출근)
+- Studying: Bachelor's of CS at <a href="https://www.monash.edu/">Monash University</a> (graduating 2027)
