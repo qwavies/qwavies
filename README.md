@@ -1,9 +1,9 @@
-# Hi there, I'm Chen - aka <a href="https://github.com/qwavies">qwavies</a> 👋
+# Hi there, I'm Chen - aka <a href="https://github.com/qwavies">qwavies</a>
 
 <img align="left" src="assets/kim_soleum.jpg" alt="Kim Soleum" width="280"/> 
 
 ```csharp
-qwavies@github
+qwavies@github.com
 -------------------------
 Uptime: 3 years
 OS: Arch Linux x86_64
@@ -15,11 +15,11 @@ Editor: nvim 0.12.4
 ```
 
 > [!NOTE]
-> Looking for work in Backend/DevOps, based in Melbourne, AU
+> **Looking for work in Backend/DevOps, based in Melbourne, AU**
 
 ## About me
 - Currently working on: Getting cracked at/by QML for my <a href="https://quickshell.org/">quickshell</a> config
-- Avid <a href="https://github.com/neovim/neovim">nvim</a>/<a href="https://github.com/vim/vim">vim</a> enjoyer & larper
+- Avid <a href="https://github.com/neovim/neovim">nvim</a>/<a href="https://github.com/vim/vim">vim</a> enjoyer, larper & **contributor**
 - OSS enjoyer and contributor
 - Currently Reading: gsgw (괴담출근)
 - Studying: Bachelor's of CS at <a href="https://www.monash.edu/">Monash University</a> (graduating 2027)
