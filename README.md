@@ -1,6 +1,6 @@
 # Hi, I'm Chen - aka <a href="https://github.com/qwavies">qwavies</a>
 
-<img align="left" src="assets/kim_soleum.jpg" alt="Kim Soleum" width="210"/> 
+<img align="left" src="assets/kim_soleum.jpg" alt="Kim Soleum" width="200"/> 
 
 ```csharp
 qwavies@github.com
