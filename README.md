@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Chen - aka <a href="https://github.com/qwavies">qwavies</a> 👋<h1/>
+<h1 align="center">Hi there, I'm Chen - aka <a href="https://github.com/qwavies">qwavies</a> 👋</h1>
 
 > [!NOTE]
 > Looking for work in Backend/DevOps
