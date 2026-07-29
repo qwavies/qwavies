@@ -5,6 +5,7 @@
 > Melbourne, AU
 
 <img align="left" src="assets/kim_soleum.jpg" alt="Kim Soleum" width="320" /> 
+
 ```csharp
 qwavies@github
 -------------------------
